@@ -26,9 +26,6 @@ const codigo = [
   'return 0;',
   '}'
 ];
-
-
-
 module.exports = {
   padrao,
   codigo
